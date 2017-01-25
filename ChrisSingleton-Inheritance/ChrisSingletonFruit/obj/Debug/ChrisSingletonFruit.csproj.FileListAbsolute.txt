@@ -1,0 +1,46 @@
+C:\Prog 120\Week4\ChrisSingletonFruit\ChrisSingletonFruit\bin\Debug\ChrisSingletonFruit.exe.config
+C:\Prog 120\Week4\ChrisSingletonFruit\ChrisSingletonFruit\bin\Debug\ChrisSingletonFruit.exe
+C:\Prog 120\Week4\ChrisSingletonFruit\ChrisSingletonFruit\bin\Debug\ChrisSingletonFruit.pdb
+C:\Prog 120\Week4\ChrisSingletonFruit\ChrisSingletonFruit\obj\Debug\ChrisSingletonFruit.exe
+C:\Prog 120\Week4\ChrisSingletonFruit\ChrisSingletonFruit\obj\Debug\ChrisSingletonFruit.pdb
+C:\Users\chris.singleton\Desktop\ChrisSingletonFruit_newest.zip\ChrisSingletonFruit\ChrisSingletonFruit\bin\Debug\ChrisSingletonFruit.exe.config
+C:\Users\chris.singleton\Desktop\ChrisSingletonFruit_newest.zip\ChrisSingletonFruit\ChrisSingletonFruit\obj\Debug\ChrisSingletonFruit.exe
+C:\Users\chris.singleton\Desktop\ChrisSingletonFruit_newest.zip\ChrisSingletonFruit\ChrisSingletonFruit\obj\Debug\ChrisSingletonFruit.pdb
+C:\Users\chris.singleton\Desktop\ChrisSingletonFruit_newest.zip\ChrisSingletonFruit\ChrisSingletonFruit\bin\Debug\ChrisSingletonFruit.exe
+C:\Users\chris.singleton\Desktop\ChrisSingletonFruit_newest.zip\ChrisSingletonFruit\ChrisSingletonFruit\bin\Debug\ChrisSingletonFruit.pdb
+C:\Users\chris.singleton\Desktop\ChrisSingletonFruit_newest.zip\ChrisSingletonFruit\ChrisSingletonFruit\obj\Debug\ChrisSingletonFruit.csprojResolveAssemblyReference.cache
+C:\Users\chris.singleton\Desktop\ChrisSingletonFruit_newest.zip\Submitted\ChrisSingletonHW4Fruit\ChrisSingletonFruit\ChrisSingletonFruit\bin\Debug\ChrisSingletonFruit.exe.config
+C:\Users\chris.singleton\Desktop\ChrisSingletonFruit_newest.zip\Submitted\ChrisSingletonHW4Fruit\ChrisSingletonFruit\ChrisSingletonFruit\obj\Debug\ChrisSingletonFruit.exe
+C:\Users\chris.singleton\Desktop\ChrisSingletonFruit_newest.zip\Submitted\ChrisSingletonHW4Fruit\ChrisSingletonFruit\ChrisSingletonFruit\obj\Debug\ChrisSingletonFruit.pdb
+C:\Users\chris.singleton\Desktop\ChrisSingletonFruit_newest.zip\Submitted\ChrisSingletonHW4Fruit\ChrisSingletonFruit\ChrisSingletonFruit\bin\Debug\ChrisSingletonFruit.exe
+C:\Users\chris.singleton\Desktop\ChrisSingletonFruit_newest.zip\Submitted\ChrisSingletonHW4Fruit\ChrisSingletonFruit\ChrisSingletonFruit\bin\Debug\ChrisSingletonFruit.pdb
+C:\Users\chris.singleton\Desktop\ChrisSingletonFruit_newest.zip\Submitted\ChrisSingletonHW4Fruit\ChrisSingletonFruit\ChrisSingletonFruit\obj\Debug\ChrisSingletonFruit.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Desktop\ChrisSingletonHW4Fruit-2\ChrisSingletonHW4Fruit\ChrisSingletonFruit\ChrisSingletonFruit\bin\Debug\ChrisSingletonFruit.exe.config
+C:\Users\Christopher\Desktop\ChrisSingletonHW4Fruit-2\ChrisSingletonHW4Fruit\ChrisSingletonFruit\ChrisSingletonFruit\obj\Debug\ChrisSingletonFruit.exe
+C:\Users\Christopher\Desktop\ChrisSingletonHW4Fruit-2\ChrisSingletonHW4Fruit\ChrisSingletonFruit\ChrisSingletonFruit\obj\Debug\ChrisSingletonFruit.pdb
+C:\Users\Christopher\Desktop\ChrisSingletonHW4Fruit-2\ChrisSingletonHW4Fruit\ChrisSingletonFruit\ChrisSingletonFruit\obj\Debug\ChrisSingletonFruit.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Desktop\ChrisSingletonHW4Fruit-2\ChrisSingletonHW4Fruit\ChrisSingletonFruit\ChrisSingletonFruit\bin\Debug\ChrisSingletonFruit.exe
+C:\Users\Christopher\Desktop\ChrisSingletonHW4Fruit-2\ChrisSingletonHW4Fruit\ChrisSingletonFruit\ChrisSingletonFruit\bin\Debug\ChrisSingletonFruit.pdb
+C:\Users\chris.singleton\Desktop\ChrisSingletonFruitHW4\ChrisSingletonFruit\ChrisSingletonFruit\bin\Debug\ChrisSingletonFruit.exe.config
+C:\Users\chris.singleton\Desktop\ChrisSingletonFruitHW4\ChrisSingletonFruit\ChrisSingletonFruit\obj\Debug\ChrisSingletonFruit.exe
+C:\Users\chris.singleton\Desktop\ChrisSingletonFruitHW4\ChrisSingletonFruit\ChrisSingletonFruit\obj\Debug\ChrisSingletonFruit.pdb
+C:\Users\chris.singleton\Desktop\ChrisSingletonFruitHW4\ChrisSingletonFruit\ChrisSingletonFruit\bin\Debug\ChrisSingletonFruit.exe
+C:\Users\chris.singleton\Desktop\ChrisSingletonFruitHW4\ChrisSingletonFruit\ChrisSingletonFruit\bin\Debug\ChrisSingletonFruit.pdb
+C:\Prog 120\Week4\Submitted\ChrisSingletonFruitHW4\ChrisSingletonFruit\ChrisSingletonFruit\bin\Debug\ChrisSingletonFruit.exe.config
+C:\Prog 120\Week4\Submitted\ChrisSingletonFruitHW4\ChrisSingletonFruit\ChrisSingletonFruit\obj\Debug\ChrisSingletonFruit.exe
+C:\Prog 120\Week4\Submitted\ChrisSingletonFruitHW4\ChrisSingletonFruit\ChrisSingletonFruit\obj\Debug\ChrisSingletonFruit.pdb
+C:\Prog 120\Week4\Submitted\ChrisSingletonFruitHW4\ChrisSingletonFruit\ChrisSingletonFruit\bin\Debug\ChrisSingletonFruit.exe
+C:\Prog 120\Week4\Submitted\ChrisSingletonFruitHW4\ChrisSingletonFruit\ChrisSingletonFruit\bin\Debug\ChrisSingletonFruit.pdb
+C:\Prog 120\Week4\Submitted\ChrisSingletonFruitHW4\ChrisSingletonFruit\ChrisSingletonFruit\obj\Debug\ChrisSingletonFruit.csprojResolveAssemblyReference.cache
+C:\Users\chris.singleton\Desktop\PROG 120\Week4\Submitted\ChrisSingletonFruitHW4\ChrisSingletonFruit\ChrisSingletonFruit\bin\Debug\ChrisSingletonFruit.exe.config
+C:\Users\chris.singleton\Desktop\PROG 120\Week4\Submitted\ChrisSingletonFruitHW4\ChrisSingletonFruit\ChrisSingletonFruit\obj\Debug\ChrisSingletonFruit.exe
+C:\Users\chris.singleton\Desktop\PROG 120\Week4\Submitted\ChrisSingletonFruitHW4\ChrisSingletonFruit\ChrisSingletonFruit\obj\Debug\ChrisSingletonFruit.pdb
+C:\Users\chris.singleton\Desktop\PROG 120\Week4\Submitted\ChrisSingletonFruitHW4\ChrisSingletonFruit\ChrisSingletonFruit\bin\Debug\ChrisSingletonFruit.exe
+C:\Users\chris.singleton\Desktop\PROG 120\Week4\Submitted\ChrisSingletonFruitHW4\ChrisSingletonFruit\ChrisSingletonFruit\bin\Debug\ChrisSingletonFruit.pdb
+C:\Users\chris.singleton\Desktop\PROG 120\Week4\Submitted\ChrisSingletonFruitHW4\ChrisSingletonFruit\ChrisSingletonFruit\obj\Debug\ChrisSingletonFruit.csprojResolveAssemblyReference.cache
+C:\Users\Christopher\Desktop\ChrisSingletonFruit\ChrisSingletonFruit\bin\Debug\ChrisSingletonFruit.exe.config
+C:\Users\Christopher\Desktop\ChrisSingletonFruit\ChrisSingletonFruit\obj\Debug\ChrisSingletonFruit.exe
+C:\Users\Christopher\Desktop\ChrisSingletonFruit\ChrisSingletonFruit\obj\Debug\ChrisSingletonFruit.pdb
+C:\Users\Christopher\Desktop\ChrisSingletonFruit\ChrisSingletonFruit\bin\Debug\ChrisSingletonFruit.exe
+C:\Users\Christopher\Desktop\ChrisSingletonFruit\ChrisSingletonFruit\bin\Debug\ChrisSingletonFruit.pdb
+C:\Users\Christopher\Desktop\ChrisSingletonFruit\ChrisSingletonFruit\obj\Debug\ChrisSingletonFruit.csprojResolveAssemblyReference.cache

@@ -1,0 +1,1 @@
+The idea is you write a special method (or two or more) that allows someone using your class to instantiate objects to "pre-set" some properties in this brand new object.  That way they don't have to create it, and then follow that line of code with more lines of code setting the properties of the new object.
